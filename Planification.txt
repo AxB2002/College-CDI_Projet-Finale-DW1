@@ -3,10 +3,12 @@
 - Avoir une nav-bar à droite incluant: Home, About (à propos de la personne et de l'entreprise), Services, Customers feedback, Contact
 - Avoir une image d'astrologie/horoscope/zodiac
 - Avoir une bref description du site
+- Section À Propos
+- Section Services
+- Section Description Zodiac Sign
+- Section Customers Feedback
+- Section de Contact
 
-<!-- ====== About Section ====== -->
-
-At Astrology Orion <span>services in astrology and horoscopes</span></h3>
-Founded in 2020, in Longueuil, We aim to make you discover the world of astrology, horoscopes and zodiac signs. 
-We offer consultations to our clients for them to make them discover their futures and the next good news to their lives. The horoscope has always belonged to everyday life. 
-It is regularly consulted every day by millions of people. Published sign by sign, it defines only 12 very general trends.
+======= Les Plus =======
+- Avoir un style switcher
+- Avoir un Typing Effect
