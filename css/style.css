@@ -926,7 +926,7 @@ h3.my-profesion
 .socials a
 {
 	text-decoration: none;
-	color: black;
+	color: ;
 }
 .socials a i
 {
@@ -953,6 +953,7 @@ h3.my-profesion
 .footer-bottom span
 {
 	text-transform: uppercase;
-	opacity: .4;
+	opacity: .7;
+	color: var(--skin-color);
 	font-weight: 200;
 }
