@@ -1,7 +1,6 @@
-
 /* ========== typing animation ========== */
 var typed=new Typed(".typing",{
-    strings:["","astrology","horoscopes","zodiac signs"],
+    strings:["","Astrology","Horoscopes","Zodiac Signs"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
